@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">calculate</string>
+    <string name="textview2">0</string>
+    <string name="editText">тест</string>
+    <string name="button">c</string>
+    <string name="button2">+/-</string>
+    <string name="button3">%</string>
+    <string name="button4">/</string>
+    <string name="button6">AC</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="button10">*</string>
+    <string name="button15">1</string>
+    <string name="button16">2</string>
+    <string name="button17">3</string>
+    <string name="button18">+</string>
+    <string name="button19">0</string>
+    <string name="button20">.</string>
+    <string name="button21">c</string>
+    <string name="button22">=</string>
+    <string name="button23">4</string>
+    <string name="button24">5</string>
+    <string name="button25">6</string>
+    <string name="button26">-</string>
+
+
+
+</resources>
